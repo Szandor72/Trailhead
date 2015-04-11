@@ -1,0 +1,5 @@
+<apex:page showHeader="false" sidebar="false" controller="EmailResponseController" action="{!setResponse}">
+	<apex:form >
+		<apex:pageMessages/>
+	</apex:form>
+</apex:page>

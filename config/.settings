@@ -1,0 +1,19 @@
+{
+    "username": "evan.sturdivant@gmail.com", 
+    "environment": "developer", 
+    "project_name": "Trailhead", 
+    "workspace": "S:\\MM Projects", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "4GULMWZKOSEG25YWG66SOZ68XI5WXF9U", 
+    "metadata_container": "1dcd00000000IirAAE", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "StringArrayTest", 
+    "tableDeclaration": {
+        "type": "StringArrayTest", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 1
+        }, 
+        "name": "StringArrayTest"
+    }, 
+    "key": "01pd0000002rHXoAAM", 
+    "variables": [
+        {
+            "type": "Integer", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 57, 
+                "line": 2
+            }, 
+            "name": "length"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 3
+            }, 
+            "name": "myArray"
+        }, 
+        {
+            "type": "Integer", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 5
+            }, 
+            "name": "i"
+        }
+    ], 
+    "id": "01pd0000002rHXoAAM", 
+    "methods": [
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "generateStringArray", 
+            "parameters": [
+                {
+                    "type": "Integer", 
+                    "name": "length"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 29, 
+                "line": 2
+            }, 
+            "returnType": "LIST", 
+            "type": null
+        }
+    ]
+}

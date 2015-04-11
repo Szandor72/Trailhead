@@ -1,0 +1,13 @@
+<apex:page showHeader="true" sidebar="false">
+	<h1>Hello World</h1>
+	<apex:pageBlock title="A Block"> 
+		<apex:pageBlockSection title="A Section">
+
+			<p>This is my first Visualforce page.</p>
+		</apex:pageBlockSection>
+		<apex:pageBlockSection title="New Section">
+			This is another Section...
+		</apex:pageBlockSection>
+
+	</apex:pageBlock>
+</apex:page>
